@@ -319,3 +319,5 @@ generate_btn.config(command=generate)
 
 color_changer()
 root.mainloop()
+
+# Created and Programmed By RIHAN AHMED
